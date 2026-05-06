@@ -4,7 +4,9 @@
 
 
 播放器控制項
-程式透過 wmpVideo.Ctlcontrols 屬性來與播放核心進行互動：
+
+
+程式透過wmpVideo.Ctlcontrols 屬性來與播放核心進行互動：
 
 play(): 啟動播放。
 
